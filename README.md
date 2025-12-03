@@ -3,6 +3,8 @@ Biquadris is a two-player competitive variant of the classic puzzle game Tetris.
 
 Victory is achieved when an opponent can no longer place their next block on the board, while scoring rewards both line clears and complete block elimination based on the difficulty level at which blocks were generated.
 
+Biquadris is developed purely in C++20 and follows modern object-oriented programming conventions.
+
 Note: A part of the documentation is provided. As per university guidelines if you do want to see the code or the UML feel free to email me.
 
 <img width="590" height="497" alt="biqpic" src="https://github.com/user-attachments/assets/36d86549-0939-48e9-b46c-af2d86fbf055" />
