@@ -3,4 +3,6 @@ Biquadris is a two-player competitive variant of the classic puzzle game Tetris.
 
 Victory is achieved when an opponent can no longer place their next block on the board, while scoring rewards both line clears and complete block elimination based on the difficulty level at which blocks were generated.
 
+Note: The documentation can only be provided as per university guidelines. If you do want to see the code feel free to email me.
+
 <img width="590" height="497" alt="biqpic" src="https://github.com/user-attachments/assets/36d86549-0939-48e9-b46c-af2d86fbf055" />
